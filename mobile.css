@@ -1,0 +1,144 @@
+@media screen and (max-width: 1050px) {
+  .parentdiv{
+    flex-direction: column;
+    /* flex-wrap: wrap; */
+  }
+  .leftdiv{
+    margin-bottom: 50px;
+    margin-right: 30px;
+    text-align: left;
+    font-size: 10px;
+  }
+  .rightdiv{
+    font-size: 10px;
+    text-align: center;
+    
+  }
+  .semi-parent{
+    width: 70%;
+    height: 500px;
+    margin-bottom: 40px;
+  }
+    .images-freestyle{
+        flex-direction: column;
+        height: 1500px;
+        align-items: center;
+        /* width: 1500px; */
+    }
+    
+    .images-freestyle2{
+        flex-direction: column;
+        height: 1500px;
+        align-items: center;
+        /* justify-content: space-evenly; */
+    }
+    .image1{ 
+        width: 50%;
+        height: 700px;
+        background-position: top;   
+        margin-top: 20px;
+        /* margin-top: 10px; */
+        /* background-size: contain; */
+        /* height: 700px;     */
+
+    }
+    .image2{ 
+        width: 50%;
+        height: 800px;
+        background-position: top;  
+        margin-top: 20px;
+        /* background-size: contain; */
+        /* height: 700px;  */
+        
+
+    }
+    .image3{ 
+        width: 50%; 
+        height: 700px;
+        background-position: top; 
+        margin-top: 20px; 
+        /* background-size: contain; */
+        /* height: 700px;     */
+
+    }
+    .image4{ 
+        width: 50%; 
+        height: 700px;
+        background-position: top;  
+        margin-top: 20px;
+        /* background-size: contain; */
+        /* height: 700px;     */
+
+    }
+    .image5{  
+        width: 50%;
+        height: 700px;
+        background-position: top; 
+        margin-top: 20px;  
+        /* background-size: contain; */
+        /* height: 700px;    */
+
+    }
+    .image6{  
+        width: 50%;
+        height: 700px;
+        background-position: top; 
+        margin-top: 20px;  
+        /* background-size: contain; */
+        /* height: 700px;    */
+
+    }
+    .smartline{
+      margin-top: 20px;
+        
+    }
+    .word1{
+        height: 80%;
+        width: 100%;
+        /* margin-bottom: 20px; */
+    }
+    .word2{
+        height: 80%;
+        width: 100%;
+    }
+    .word1 h2{
+        margin-bottom: 80px;
+    }
+ 
+    .footer{
+        display: block;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+}
