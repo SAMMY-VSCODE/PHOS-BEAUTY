@@ -93,16 +93,16 @@
         
     }
     .word1{
-        height: 80%;
+        height: 90%;
         width: 100%;
         /* margin-bottom: 20px; */
     }
     .word2{
-        height: 80%;
+        height: 90%;
         width: 100%;
     }
     .word1 h2{
-        margin-bottom: 80px;
+        margin-bottom: 50px;
     }
  
     .footer{
